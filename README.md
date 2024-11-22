@@ -30,11 +30,11 @@
 ```bash
 # Yarn
 yarn add react-native-svg
-yarn add react-native-iconfont-cli --dev
+yarn add react-native-iconfont --dev
 
 # Npm
 npm install react-native-svg
-npm install react-native-iconfont-cli --save-dev
+npm install react-native-iconfont --save-dev
 ```
 
 # Step 2
