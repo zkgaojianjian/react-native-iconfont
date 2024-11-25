@@ -11,7 +11,7 @@ interface Props extends GProps, ViewProps {
   color?: string | string[];
 }
 
-let #componentName#: FunctionComponent<Props> = ({ size, color, ...rest }) => {
+let #componentName#: FunctionComponent<Props> = ({ size = #size#, color, ...rest }) => {
   return (#iconContent#  );
 };
 
